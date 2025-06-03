@@ -6,7 +6,7 @@ Dưới đây là nội dung README cho project của bạn trên GitHub, giúp 
 ```markdown
 # 🧠 Age Estimation from Facial Images with Race Awareness
 
-This project aims to predict a person's **age** from a **cropped face image**, using a **deep learning model that considers race** as an auxiliary input. The dataset includes images in the format `[age]_[gender]_[race]_[datetime].jpg`.
+This project aims to predict a person's age from a cropped face image, using a **deep learning model that considers race** as an auxiliary input. The dataset includes images in the format `[age]_[gender]_[race]_[datetime].jpg`.
 
 ---
 
@@ -112,8 +112,6 @@ Race (one-hot) → FC
 
 The model is evaluated using:
 
-* Classification: Top-1 Accuracy, MAE
-* Regression: MAE, RMSE
 
 ---
 
@@ -121,6 +119,6 @@ The model is evaluated using:
 
 👤 **Your Name**
 📧 [maihoanganh_t67@hus.edu.vn](mailto:maihoanganh_t67@hus.edu.vn)
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
+🔗 GitHub: [@hoanganh3211](https://github.com/hoanganh3211)
 
 ---

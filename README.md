@@ -4,7 +4,7 @@ Dưới đây là nội dung README cho project của bạn trên GitHub, giúp 
 ---
 
 ```markdown
-# 🧠 Age Estimation from Facial Images with Race Awareness
+## 🧠 Age Estimation from Facial Images with Race Awareness
 
 This project aims to predict a person's age from a cropped face image, using a **deep learning model that considers race** as an auxiliary input. The dataset includes images in the format `[age]_[gender]_[race]_[datetime].jpg`.
 

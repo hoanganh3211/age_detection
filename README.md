@@ -36,14 +36,14 @@ All images are portraits, and have been preprocessed using **face detection and 
 - Modular dataset loading and training pipeline
 
 ---
-🎬 [Xem video demo tại đây](https://youtu.be/bumjmAuE6zM)
+[Xem video demo tại đây](https://youtu.be/bumjmAuE6zM)
 
 
 
 ## Author
 
-👤 **Your Name**
-📧 [maihoanganh_t67@hus.edu.vn](mailto:maihoanganh_t67@hus.edu.vn)
-🔗 GitHub: [@hoanganh3211](https://github.com/hoanganh3211)
+**Mai Hoang Anh**
+[maihoanganh_t67@hus.edu.vn](mailto:maihoanganh_t67@hus.edu.vn)
+GitHub: [@hoanganh3211](https://github.com/hoanganh3211)
 
 ---

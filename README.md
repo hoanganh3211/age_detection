@@ -36,6 +36,7 @@ All images are portraits, and have been preprocessed using **face detection and 
 - Modular dataset loading and training pipeline
 
 ---
+🎬 [Xem video demo tại đây](https://github.com/user/repo/blob/main/demo.mp4)
 
 
 
